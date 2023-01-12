@@ -12,6 +12,8 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 **2023. 01 ~**
 
+<br>
+
 **Samsung Software Academy For Youth (SSAFY) 9th**
 
 ## Stats
