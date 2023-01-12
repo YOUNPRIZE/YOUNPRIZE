@@ -1,4 +1,4 @@
-# :weight_lifting_man:YOUNSANG CHO
+# :muscle:YOUNSANG CHO
 
 I love to do CrossFit & WeightLifting 🏋🏻
 
@@ -10,9 +10,7 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 ## Experience
 
-*2023.01 ~*
-
-<br>
+**2023. 01 ~**
 
 **Samsung Software Academy For Youth (SSAFY) 9th**
 
@@ -20,10 +18,6 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 <img align='left' width='30%' src="https://github-readme-stats.vercel.app/api?username=YOUNPRIZE&show_icons=true&theme=radical">
 
-<br>
-
 <img align='center' width='30%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNPRIZE&layout=compact&theme=radical">
-
-<br>
 
 <img align='right' width='30%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younprize">
