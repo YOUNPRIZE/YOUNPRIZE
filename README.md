@@ -18,6 +18,6 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 <!--<img align='left' width='30%' src="https://github-readme-stats.vercel.app/api?username=YOUNPRIZE&show_icons=true&theme=radical">-->
 
-<img width='30%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNPRIZE&layout=compact&theme=radical">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younprize)](https://solved.ac/younprize/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNPRIZE&layout=compact&theme=radical">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younprize)](https://solved.ac/younprize/)
 
 <!--<img align='left' width='40%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younprize">-->
