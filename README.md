@@ -2,6 +2,8 @@
 
 I love to do CrossFit & WeightLifting 🏋🏻
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUNPRIZE&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hi%3A%29&edge_flat=false)](https://github.com/YOUNPRIZE)
+
 ## Social
 
 <img src="https://img.shields.io/badge/ysang10@gmail.com-20a7c9?style=flat-square&logo=Gmail&logoColor=black"/> <a href="https://younprize.tistory.com/"><img src="https://img.shields.io/badge/YOUNPRIZE-C94220?style=flat-square&logo=Tistory&logoColor=black"/>
