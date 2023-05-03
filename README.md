@@ -2,7 +2,7 @@
 
 I love to do CrossFit & WeightLifting 🏋🏻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUNPRIZE&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hi%3A%29&edge_flat=false)](https://github.com/YOUNPRIZE)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUNPRIZE&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hello%3A%29&edge_flat=false)](https://github.com/YOUNPRIZE)
 
 ## Social
 
