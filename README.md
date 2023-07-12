@@ -25,7 +25,7 @@ Services that help you manage your health through community functions and record
 ## Stats
 
 <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNPRIZE&layout=compact&theme=radical">
-<br>
+
 <!-- <img align='center' width='35%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younprize"> -->
 
 ![snake gif](https://github.com/YOUNPRIZE/YOUNPRIZE/blob/output/github-contribution-grid-snake.svg)
