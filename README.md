@@ -22,6 +22,14 @@ I love to do CrossFit & WeightLifting 🏋🏻
 [**GRITER**](https://github.com/YOUNPRIZE/GRITER)
 <br>
 Services that help you manage your health through community functions and recording exercise and diet information (2023.05)
+<br>
+<br>
+[**ChameleHOME**](https://github.com/YOUNPRIZE/ChameleHOME)
+<br>
+A smart cage that helps you easily raise reptiles using Web IoT technology (2023.07 - 2023.08)
+<br>
+(🥇 SSAFY 2nd semester First Project Award 🥇)
+
 
 ## Stats
 
