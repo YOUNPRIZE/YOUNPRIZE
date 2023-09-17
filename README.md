@@ -1,4 +1,4 @@
-# :muscle:YOUN SANG CHO
+# :muscle:
 
 I love to do CrossFit & WeightLifting 🏋🏻
 
