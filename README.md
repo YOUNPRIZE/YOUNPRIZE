@@ -23,6 +23,7 @@ I love to do CrossFit & WeightLifting 🏋🏻
 <br>
 Economic knowledge acquisition service utilizing curiosity about others (2023.08 - 2023.10)
 <br>
+( SSAFY 2nd semester Second Project UCC Award 🎬)
 <br>
 [**ChameleHOME**](https://github.com/YOUNPRIZE/ChameleHOME)
 <br>
