@@ -19,6 +19,11 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 ## Projects
 
+[**Purugging**](https://github.com/YOUNPRIZE/Purugging)
+<br>
+Plogging encouragement service using IoT technology (2023.10 - 2023.11)
+<br>
+<br>
 [**Mozey**](https://github.com/YOUNPRIZE/Mozey)
 <br>
 Economic knowledge acquisition service utilizing curiosity about others (2023.08 - 2023.10)
@@ -40,9 +45,9 @@ Services that help you manage your health through community functions and record
 
 
 
-## Stats
+<!-- ## Stats -->
 
-<img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNPRIZE&layout=compact&theme=radical">
+<!-- <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNPRIZE&layout=compact&theme=radical"> -->
 
 <!-- <img align='center' width='35%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younprize"> -->
 
