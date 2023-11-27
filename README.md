@@ -23,6 +23,8 @@ I love to do CrossFit & WeightLifting 🏋🏻
 <br>
 Plogging encouragement service using IoT technology (2023.10 - 2023.11)
 <br>
+(🥉 SSAFY 2nd semester Third Project Award 🥉)
+<br>
 <br>
 [**Mozey**](https://github.com/YOUNPRIZE/Mozey)
 <br>
