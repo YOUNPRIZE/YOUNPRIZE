@@ -12,9 +12,7 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 ## Experience
 
-*2023.01 - 2023.12*
-
-**Samsung Software Academy For Youth (SSAFY) 9th**
+**Samsung Software Academy For Youth (SSAFY) 9th** [2023.01 - 2023.12]
 
 
 ## Projects
