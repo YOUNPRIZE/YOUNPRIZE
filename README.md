@@ -1,6 +1,6 @@
 # YOUNSANG CHO :muscle:
 
-## NH농협은행 IT (24.01.15 ~ )
+### NH농협은행 (24.01.15 ~ )
 
 I love to do CrossFit & WeightLifting 🏋🏻
 
