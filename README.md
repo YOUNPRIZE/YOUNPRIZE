@@ -12,6 +12,8 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 ## Experience
 
+**NongHyup Bank** [2024.01 - ]
+
 **Samsung Software Academy For Youth (SSAFY) 9th** [2023.01 - 2023.12]
 
 
