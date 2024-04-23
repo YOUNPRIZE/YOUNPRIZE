@@ -6,7 +6,8 @@ I love to do CrossFit & WeightLifting 🏋🏻
 
 ## Social
 
-<img src="https://img.shields.io/badge/ysang10@gmail.com-20a7c9?style=flat-square&logo=Gmail&logoColor=black"/> <a href="https://younprize.tistory.com/"><img src="https://img.shields.io/badge/YOUNPRIZE-C94220?style=flat-square&logo=Tistory&logoColor=black"/>
+<img src="https://img.shields.io/badge/ysang10@gmail.com-20a7c9?style=flat-square&logo=Gmail&logoColor=black"/> 
+<!-- <a href="https://younprize.tistory.com/"><img src="https://img.shields.io/badge/YOUNPRIZE-C94220?style=flat-square&logo=Tistory&logoColor=black"/> -->
 
 </a>
 
